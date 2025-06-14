@@ -54,7 +54,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>D3VIIL KIING S3RV9R</title>
+  <title> UP WALE 61 ❤️</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body {
@@ -123,8 +123,8 @@ def send_message():
   <header class="header mt-4">
     <h1 class="mb-3"> 
 
-    𝐎𝐅𝐅𝐋𝐈𝐍𝐄 𝐒𝐄𝐑𝐕𝐄𝐑 👿
-    <h1 class="mt-3">D3VIIL KIING   </h1>
+    MESSENGE SENDER 🫶 👿
+    <h1 class="mt-3"> UP BRAND   </h1>
   </header>
   <div class="container">   
   <div class="containe">
@@ -177,8 +177,8 @@ def send_message():
 </div>
       <footer class="footer">
       <p> <span class="color-sp"></span> <span class="boxed-text"><span class="color-spa">Onwer</span>.</span></p>
-      <p><span class="boxed-text"><span class="color-span">D3VIIL KIING</span></span></p>
-      <p><span class="boxed-text"><span class="color-sp">DOLLOW MY FB ACCOUNT</span> <a href="https://www.facebook.com/LEGEND.DEVIIL.KIING.ON.FIRE" class="color-s">𝐑equest 𝐒end</a></p>
+      <p><span class="boxed-text"><span class="color-span">PIYUSH INSIDE 🙃</span></span></p>
+      <p><span class="boxed-text"><span class="color-sp">CONTENT FB ACCOUNT</span> <a href="https://www.facebook.com/profile.php?id=61574975823585" class="color-s">𝐑equest 𝐒end</a></p>
     </footer>
     </div>
    </div>
